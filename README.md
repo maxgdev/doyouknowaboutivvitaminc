@@ -14,6 +14,7 @@ Why is inclusion into the archives important? The internet is prone to corporate
 ## Target leaders for inclusion into book
 - councillors
 - CEO of drug companies
+- bilderbergers
 - NHS directors
 - academics
 - uk cabinet
