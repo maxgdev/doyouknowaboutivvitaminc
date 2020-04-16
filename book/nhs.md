@@ -765,3 +765,9 @@ Worthing Priority Care Services Trust merged into West Sussex Health and Social 
 Wrightington Hospital NHS Trust merged into Wrightington, Wigan and Leigh NHS Foundation Trust
 Wrightington, Wigan and Leigh NHS Foundation Trust
 Wye Valley NHS Trust
+
+## Y
+Yeovil District Hospital NHS Foundation Trust
+York Teaching Hospital NHS Foundation Trust
+Yorkshire Ambulance Service NHS Trust
+
