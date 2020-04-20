@@ -36,3 +36,18 @@ The response can either confirm awareness of IV Vitamin C or accept ignorance
 
 - A non-response
 Even after multiple queries, no response was forthcoming this is noted and still included
+
+## Book response page(s)
+Recipient's name
+
+Date Sent
+
+Sent by email/post?
+
+Sender's name
+
+sender's contact info/email address
+
+Recipient's response
+
+Date of response
