@@ -18,6 +18,7 @@ https://www.lilly.com/leadership/board-of-directors
 * Kathi P. Seifert
 
 ### GlaxoSmithKline
+
 - Sir Jonathan Symonds,
 - Emma Walmsley
 - Iain Mackay
@@ -29,7 +30,6 @@ https://www.lilly.com/leadership/board-of-directors
 - Dr Jesse Goodman
 - Judy Lewent
 - Urs Rohner
-
 
 ### Sanofi
 https://www.sanofi.com/en/about-us/governance/board-of-directors
@@ -49,23 +49,85 @@ https://www.sanofi.com/en/about-us/governance/board-of-directors
 - Diane Souza
 - Thomas Südhof
 
-
-
 ### AstraZeneca
 https://www.astrazeneca.com/our-company/leadership.html
 
+- Leif Johansson
+- Pascal Soriot
+- Marc Dunoyer
+- Pascal Soriot
+- Pascal Soriot
+- Katarina Ageborg
+- José Baselga
+- Pam Cheng
+- Fiona Cicconi
+- Ruud Dobber
+- David Fredrickson
+- Menelas (Mene) Pangalos
+- Jeff Pott
+- Iskra Reic
+- Leon Wang
 
 ### AbbVie
+https://www.abbvie.com/our-company/leadership.html
+
+- Richard A. Gonzalez
+- Michael E. Severino, M.D.
+- Laura J. Schumacher
+- Carlos Alban
+- Henry O. Gosebruch
+- Robert A. Michael
+- Timothy J. Richmond
+- Azita Saleki-Gerhardt, Ph.D.
+
 
 ### Pfizer
+https://www.pfizer.com/people/leadership/board-of-directors
+
+- ALBERT BOURLA, DVM, PH.D.
+- RONALD E. BLAYLOCK
+- W. DON CORNWELL
+- SUSAN DESMOND-HELLMANN, M.D.,
+- JOSEPH J. ECHEVARRIA
+- SCOTT GOTTLIEB, M.D.
+- HELEN H. HOBBS, M.D.
+- SUSAN HOCKFIELD, PH.D.
+- JAMES M. KILTS
+- DAN R. LITTMAN, M.D., PH.D.
+- SHANTANU NARAYEN
+- SUZANNE NORA JOHNSON
+- JAMES QUINCEY
+- JAMES C. SMITH
+
+
 
 ### Roche
+https://www.roche.com/about/governance/board_of_directors.htm
+
+- Dr Christoph Franz
+- André Hoffmann
+- Dr Jörg Duschmalé
+- Julie Brown
+- Paul Bulcke
+- Prof. Dr Hans Clevers
+- Dr Patrick Frost
+- Anita Hauser
+- Prof. Dr Richard P. Lifton
+- Bernard Poussot
+- Dr Severin Schwan
+- Dr Claudia Suessmuth Dyckerhoff
+
 
 ### Merck & Co.
+https://www.merck.com/about/leadership/board-of-directors/home.html
+
 
 ### Novartis
+https://www.novartis.com/our-company/board-directors
 
 ### Johnson & Johnson
+https://www.jnj.com/leadership/our-leadership-team
 
 ### Bayer
+https://www.bayer.com/en/board-of-management.aspx
 
