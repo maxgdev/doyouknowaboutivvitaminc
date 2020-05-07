@@ -1,123 +1,244 @@
 ## PARTICIPANTS 2019
 Abrams, Stacey (USA), Founder and Chair, Fair Fight
+
 Adonis, Andrew (GBR), Member, House of Lords
+
 Albers, Isabel (BEL), Editorial Director, De Tijd / L'Echo
+
 Altman, Roger C. (USA), Founder and Senior Chairman, Evercore
+
 Arbour, Louise (CAN), Senior Counsel, Borden Ladner Gervais LLP
+
 Arrimadas, Inés (ESP), Party Leader, Ciudadanos
+
 Azoulay, Audrey (INT), Director-General, UNESCO
-Baker, James H. (USA), Director, Office of Net Assessment, Office of the Secretary of Defense
+
+Baker, James H. (USA), Director, Office of Net Assessment, Office of the Secretary of 
+Defense
+
 Balta, Evren (TUR), Associate Professor of Political Science, Özyegin University
+
 Barbizet, Patricia (FRA), Chairwoman and CEO, Temaris & Associés
+
 Barbot, Estela (PRT), Member of the Board and Audit Committee, REN (Redes Energéticas Nacionais)
+
 Barroso, José Manuel (PRT), Chairman, Goldman Sachs International; Former President, European Commission
+
 Barton, Dominic (CAN), Senior Partner and former Global Managing Partner, McKinsey & Company
+
 Beaune, Clément (FRA), Adviser Europe and G20, Office of the President of the Republic of France
+
 Boos, Hans-Christian (DEU), CEO and Founder, Arago GmbH
+
 Bostrom, Nick (GBR), Director, Future of Humanity Institute, Oxford University
+
 Botín, Ana P. (ESP), Group Executive Chair, Banco Santander
+
 Brandtzæg, Svein Richard (NOR), Chairman, Norwegian University of Science and Technology
+
 Brende, Børge (NOR), President, World Economic Forum
+
 Buberl, Thomas (FRA), CEO, AXA
+
 Buitenweg, Kathalijne (NLD), MP, Green Party
+
 Caine, Patrice (FRA), Chairman and CEO, Thales Group
+
 Carney, Mark J. (GBR), Governor, Bank of England
+
 Casado, Pablo (ESP), President, Partido Popular
+
 Ceviköz, Ahmet Ünal (TUR), MP, Republican People's Party (CHP)
+
 Cohen, Jared (USA), Founder and CEO, Jigsaw, Alphabet Inc.
+
 Croiset van Uchelen, Arnold (NLD), Partner, Allen & Overy LLP
+
 Daniels, Matthew (USA), New space and technology projects, Office of the Secretary of Defense
+
 Demiralp, Selva (TUR), Professor of Economics, Koç University
+
 Donohoe, Paschal (IRL), Minister for Finance, Public Expenditure and Reform
+
 Döpfner, Mathias (DEU), Chairman and CEO, Axel Springer SE
+
 Ellis, James O. (USA), Chairman, Users’ Advisory Group, National Space Council
+
 Feltri, Stefano (ITA), Deputy Editor-in-Chief, Il Fatto Quotidiano
+
 Ferguson, Niall (USA), Milbank Family Senior Fellow, Hoover Institution, Stanford University
+
 Findsen, Lars (DNK), Director, Danish Defence Intelligence Service
+
 Fleming, Jeremy (GBR), Director, British Government Communications Headquarters
+
 Garton Ash, Timothy (GBR), Professor of European Studies, Oxford University
+
 Gnodde, Richard J. (IRL), CEO, Goldman Sachs International
+
 Godement, François (FRA), Senior Adviser for Asia, Institut Montaigne
-Grant, Adam M. (USA), Saul P. Steinberg Professor of Management, The Wharton School, University of Pennsylvania
+
+Grant, Adam M. (USA), Saul P. Steinberg Professor of Management, The Wharton School, 
+University of Pennsylvania
+
 Gruber, Lilli (ITA), Editor-in-Chief and Anchor "Otto e mezzo", La7 TV
+
 Hanappi-Egger, Edeltraud (AUT), Rector, Vienna University of Economics and Business
+
 Hedegaard, Connie (DNK), Chair, KR Foundation; Former European Commissioner
+
 Henry, Mary Kay (USA), International President, Service Employees International Union
+
 Hirayama, Martina (CHE), State Secretary for Education, Research and Innovation
+
 Hobson, Mellody (USA), President, Ariel Investments LLC
+
 Hoffman, Reid (USA), Co-Founder, LinkedIn; Partner, Greylock Partners
+
 Hoffmann, André (CHE), Vice-Chairman, Roche Holding Ltd.
+
 Jordan, Jr., Vernon E. (USA), Senior Managing Director, Lazard Frères & Co. LLC
+
 Jost, Sonja (DEU), CEO, DexLeChem
+
 Kaag, Sigrid (NLD), Minister for Foreign Trade and Development Cooperation
+
 Karp, Alex (USA), CEO, Palantir Technologies
+
 Kerameus, Niki K. (GRC), MP; Partner, Kerameus & Partners
+
 Kissinger, Henry A. (USA), Chairman, Kissinger Associates Inc.
+
 Koç, Ömer (TUR), Chairman, Koç Holding A.S.
+
 Kotkin, Stephen (USA), Professor in History and International Affairs, Princeton University
+
 Krastev, Ivan (BUL), Chairman, Centre for Liberal Strategies
+
 Kravis, Henry R. (USA), Co-Chairman and Co-CEO, Kohlberg Kravis Roberts & Co.
+
 Kristersson, Ulf (SWE), Leader of the Moderate Party
+
 Kudelski, André (CHE), Chairman and CEO, Kudelski Group
+
 Kushner, Jared (USA), Senior Advisor to the President, The White House
+
 Le Maire, Bruno (FRA), Minister of Finance
+
 Leyen, Ursula von der (DEU), Federal Minster of Defence
+
 Leysen, Thomas (BEL), Chairman, KBC Group and Umicore
+
 Liikanen, Erkki (FIN), Chairman, IFRS Trustees; Helsinki Graduate School of Economics
+
 Lund, Helge (GBR), Chairman, BP plc; Chairman, Novo Nordisk AS
+
 Maurer, Ueli (CHE), President of the Swiss Federation and Federal Councillor of Finance
+
 Mazur, Sara (SWE), Director, Investor AB
+
 McArdle, Megan (USA), Columnist, The Washington Post
+
 McCaskill, Claire (USA), Former Senator; Analyst, NBC News
+
 Medina, Fernando (PRT), Mayor of Lisbon
+
 Micklethwait, John (USA), Editor-in-Chief, Bloomberg LP
+
 Minton Beddoes, Zanny (GBR), Editor-in-Chief, The Economist
+
 Monzón, Javier (ESP), Chairman, PRISA
+
 Mundie, Craig J. (USA), President, Mundie & Associates
+
 Nadella, Satya (USA), CEO, Microsoft
+
 Netherlands, His Majesty the King of the (NLD)
+
 Nora, Dominique (FRA), Managing Editor, L'Obs
+
 O'Leary, Michael (IRL), CEO, Ryanair D.A.C.
+
 Pagoulatos, George (GRC), Vice-President of ELIAMEP, Professor; Athens University of Economics
+
 Papalexopoulos, Dimitri (GRC), CEO, TITAN Cement Company S.A.
+
 Petraeus, David H. (USA), Chairman, KKR Global Institute
+
 Pienkowska, Jolanta (POL), Anchor woman, journalist
+
 Pottinger, Matthew (USA), Senior Director, National Security Council
+
 Pouyanné, Patrick (FRA), Chairman and CEO, Total S.A.
+
 Ratas, Jüri (EST), Prime Minister
+
 Renzi, Matteo (ITA), Former Prime Minister; Senator, Senate of the Italian Republic
+
 Rockström, Johan (SWE), Director, Potsdam Institute for Climate Impact Research
+
 Rubin, Robert E. (USA), Co-Chairman Emeritus, Council on Foreign Relations; Former Treasury Secretary
+
 Rutte, Mark (NLD), Prime Minister
+
 Sabia, Michael (CAN), President and CEO, Caisse de dépôt et placement du Québec
+
 Sarts, Janis (INT), Director, NATO StratCom Centre of Excellence
+
 Sawers, John (GBR), Executive Chairman, Newbridge Advisory
+
 Schadlow, Nadia (USA), Senior Fellow, Hudson Institute
+
 Schmidt, Eric E. (USA), Technical Advisor, Alphabet Inc.
+
 Scholten, Rudolf (AUT), President, Bruno Kreisky Forum for International Dialogue
+
 Seres, Silvija (NOR), Independent Investor
+
 Shafik, Minouche (GBR), Director, The London School of Economics and Political Science
+
 Sikorski, Radoslaw (POL), MP, European Parliament
+
 Singer, Peter Warren (USA), Strategist, New America
+
 Sitti, Metin (TUR), Professor, Koç University; Director, Max Planck Institute for Intelligent Systems
+
 Snyder, Timothy (USA), Richard C. Levin Professor of History, Yale University
+
 Solhjell, Bård Vegar (NOR), CEO, WWF - Norway
+
 Stoltenberg, Jens (INT), Secretary General, NATO
+
 Suleyman, Mustafa (GBR), Co-Founder, Deepmind
+
 Supino, Pietro (CHE), Publisher and Chairman, Tamedia Group
+
 Teuteberg, Linda (DEU), General Secretary, Free Democratic Party
+
 Thiam, Tidjane (CHE), CEO, Credit Suisse Group AG
+
 Thiel, Peter (USA), President, Thiel Capital
+
 Trzaskowski, Rafal (POL), Mayor of Warsaw
+
 Tucker, Mark (GBR), Group Chairman, HSBC Holding plc
+
 Tugendhat, Tom (GBR), MP, Conservative Party
+
 Turpin, Matthew (USA), Director for China, National Security Council
+
 Uhl, Jessica (NLD), CFO and Executive Director, Royal Dutch Shell plc
+
 Vestergaard Knudsen, Ulrik (DNK), Deputy Secretary-General, OECD
+
 Walker, Darren (USA), President, Ford Foundation
+
 Wallenberg, Marcus (SWE), Chairman, Skandinaviska Enskilda Banken AB
+
 Wolf, Martin H. (GBR), Chief Economics Commentator, Financial Times
+
 Zeiler, Gerhard (AUT), Chief Revenue Officer, WarnerMedia
+
 Zetsche, Dieter (DEU), Former Chairman, Daimler AG
 
 ## PARTICIPANTS 2018
